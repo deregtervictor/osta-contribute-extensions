@@ -1,0 +1,92 @@
+[
+    {
+        "lat": 51.215968,
+        "lng": 4.406421,
+        "types": [
+            "Luxewinkel"
+        ],
+        "name": "Louis Vuitton",
+        "description": "Louis Vuitton is een gerenommeerde luxewinkel die high-end mode en accessoires aanbiedt. Gelegen in het hart van Antwerpen, biedt deze winkel een exclusieve winkelervaring met een breed scala aan premium producten."
+    },
+    {
+        "lat": 51.216454,
+        "lng": 4.407318,
+        "types": [
+            "Winkelstraat"
+        ],
+        "name": "Schuttershofstraat",
+        "description": "Schuttershofstraat is een van de meest luxueuze winkelstraten van Antwerpen, met een verzameling van high-end modeboetieks, juweliers en stijlvolle cafés. Het is een uitstekende plek om luxe auto's te spotten en te genieten van een verfijnde winkelervaring."
+    },
+    {
+        "lat": 51.215887,
+        "lng": 4.403964,
+        "types": [
+            "Stedelijk gebied"
+        ],
+        "name": "Oudaan",
+        "description": "Oudaan is een bruisend gebied in Antwerpen, bekend om zijn moderne architectuur en levendige stedelijke leven. Het is een belangrijke locatie voor stedelijke evenementen en een populaire plek voor autoliefhebbers om een verscheidenheid aan voertuigen te spotten."
+    },
+    {
+        "lat": 51.215887,
+        "lng": 4.403964,
+        "types": [
+            "Parkeergarage"
+        ],
+        "name": "Oudaan Parking",
+        "description": "Oudaan Parking biedt gemakkelijke parkeermogelijkheden in het hart van Antwerpen. Het is een populaire plek om een verscheidenheid aan voertuigen te spotten, waaronder luxe en exotische auto's."
+    },
+    {
+        "lat": 51.216538,
+        "lng": 4.410369,
+        "types": [
+            "Autodealer"
+        ],
+        "name": "Polestar Antwerpen",
+        "description": "Polestar Antwerpen is een toonaangevende dealer die gespecialiseerd is in de nieuwste Polestar elektrische voertuigen. Het biedt een stijlvolle showroom en deskundig personeel, waardoor het een must-visit is voor autoliefhebbers en degenen die geïnteresseerd zijn in elektrische mobiliteit."
+    },
+    {
+        "lat": 51.213235,
+        "lng": 4.523347,
+        "types": [
+            "Autodealer"
+        ],
+        "name": "Porsche Antwerpen",
+        "description": "Porsche Antwerpen is de go-to dealer voor Porsche fans. Het beschikt over een prachtige collectie nieuwe en tweedehands Porsche-modellen, uitzonderlijke klantenservice en een ultramodern servicecentrum."
+    },
+    {
+        "lat": 51.213992,
+        "lng": 4.494639,
+        "types": [
+            "Autodealer"
+        ],
+        "name": "Lamborghini Antwerpen",
+        "description": "Lamborghini Antwerpen toont de nieuwste Lamborghini-modellen in een elegante showroom. Het biedt exclusieve diensten voor liefhebbers van luxe auto's, waaronder gepersonaliseerde koopervaringen en professioneel onderhoud."
+    },
+    {
+        "lat": 51.213992,
+        "lng": 4.494639,
+        "types": [
+            "Autodealer"
+        ],
+        "name": "Bentley Antwerpen",
+        "description": "Bentley Antwerpen biedt een luxueuze omgeving voor het verkennen van de nieuwste Bentley-modellen. De dealer biedt op maat gemaakte diensten en een uitgebreide collectie nieuwe en gecertificeerde tweedehands voertuigen."
+    },
+    {
+        "lat": 51.228187,
+        "lng": 4.498871,
+        "types": [
+            "Autodealer"
+        ],
+        "name": "Ferrari Antwerpen",
+        "description": "Ferrari Antwerpen is een prestigieuze dealer die een breed scala aan nieuwe en tweedehands Ferrari-voertuigen aanbiedt. Het staat bekend om zijn uitzonderlijke klantenservice en deskundige kennis van high-performance sportwagens."
+    },
+    {
+        "lat": 51.228187,
+        "lng": 4.498871,
+        "types": [
+            "Autodealer"
+        ],
+        "name": "Lexus Antwerpen",
+        "description": "Lexus Antwerpen biedt een uitgebreide reeks luxe Lexus-voertuigen. Bekend om zijn toewijding aan klanttevredenheid en hoogwaardige service, is het de ideale bestemming voor wie op zoek is naar innovatieve en betrouwbare auto's."
+    }
+]
